@@ -1,0 +1,4 @@
+# Ignore the NAOqi Python SDK
+pynaoqi-python2.7-*-linux64.tar.gz
+
+
