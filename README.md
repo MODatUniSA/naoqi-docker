@@ -1,5 +1,5 @@
 # NAOqi Python SDK using Docker
-Use Docker to build the [NAOqi Python SDK](http://doc.aldebaran.com/2-1/dev/python/install_guide.html).
+Use Docker to build the [NAOqi Python SDK](http://doc.aldebaran.com/2-1/dev/python/install_guide.html) for Ubuntu 17.04 and NAOqi 2.1.4.13
 
 ## Installation
 
